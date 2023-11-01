@@ -22,7 +22,7 @@ body{
     align-items: center; /* alles in de nav komt in het midden te staan*/
     color: #eee;
     font-size: 130%;
-    padding: 4rem; /* alles heeft dan 40px afstand*/
+    padding: 1rem; /* alles heeft dan 40px afstand*/
     text-transform: uppercase;
 }
 
@@ -79,7 +79,7 @@ body{
 }
 
 .listitem{
-    padding-left: 50rem;
+    padding-left: 5rem;
 }
 
 .alletekst{

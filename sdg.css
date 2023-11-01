@@ -69,7 +69,8 @@ body {
 
 .sdg-image2 {
   max-width: 100%;
-  height: auto;
+  width: 100rem;
+  height: 100rem;
   margin-bottom: 2rem;
 }
 
